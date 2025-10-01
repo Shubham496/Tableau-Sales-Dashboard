@@ -20,6 +20,11 @@ This Tableau project presents interactive dashboards that provide detailed insig
 
 ---
 
+## 📷 Screenshots
+
+![Sales Overview Dashboard](screenshots/sales.jpeg)
+![Customer Insights Dashboard](screenshots/customers.jpeg)
+
 ---
 
 ## 📌 Key Dashboards
@@ -72,9 +77,7 @@ This Tableau project presents interactive dashboards that provide detailed insig
 For questions or suggestions, please contact:
 
 * **Name:** Shubham Singh
-* **Email:** [shubhamsinghh057@gmail.com
-](mailto:shubhamsinghh057@gmail.com)
-*
+* **Email:** [iatco5h@gmail.com](mailto:iatco5h@gmail.com)
 
 ---
 
