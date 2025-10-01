@@ -72,13 +72,15 @@ This Tableau project presents interactive dashboards that provide detailed insig
 
 ---
 
-## 📞 Contact
+## 📞 Contact Me
 
-For questions or suggestions, please contact:
+Feel free to reach out if you have any questions, suggestions, or just want to connect!
 
-* **Name:** Shubham Singh
-* **Email:** [iatco5h@gmail.com](mailto:iatco5h@gmail.com)
+- **Email:** [iatco5h@gmail.com](mailto:iatco5h@gmail.com)
+- **Phone:** +91 9520132466
+- **LinkedIn:** [linkedin.com/in/Shubham](https://www.linkedin.com/in/shubham-singh-64827a228/)
 
+I look forward to hearing from you!
 ---
 
 ## ✅ License
